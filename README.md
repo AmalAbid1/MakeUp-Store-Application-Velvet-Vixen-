@@ -5,13 +5,13 @@ MakeUp Store Application for our Brand (Velvet Vixen)
 ### in our application you can do the following:
 * explore the website 
 * create accounts or login to existing one 
-* play snake game 
-* create your own suitable lip color
+* play snake game
+*  create your own suitable lip color
 ⁠* explore our store locations 
 * explore our products
 * buy as much as you like of products
-* insert your address details 
-⁠* choose payment method
+* insert your address details
+*  choose payment method
 * you can get discounts for first time buying or after score 3 points in snake game or take code 22FebV
 * check your account and change your account details from sitting 
 * know more aboute us in about us page
